@@ -6,6 +6,7 @@
 
 
 <h3 align="center">A passionate frontend developer 👩‍💻</h3>
+<h3>Make me happy by ⭐️ to my repositories 🙏🏻 </h3>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif" width="100%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monaz88&label=Profile%20views&color=0e75b6&style=flat" alt="monaz88" /> </p>
